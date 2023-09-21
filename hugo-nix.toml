@@ -1,0 +1,33 @@
+baseURL = 'https://joncohrs.com'
+languageCode = 'en-us'
+title = 'Jon Cohrs'
+theme = 'hello-friend-ng'
+
+[menu]
+  [[menu.header]]
+    name = "Portfolio"
+    weight = 0
+    url = "https://decks.joncohrs.com/me"
+  [[menu.header]]
+    name = "About"
+    weight = 0
+    url = "/about"
+  [[menu.header]]
+    name = "CV"
+    weight = 0
+    url = "/CV"
+
+
+[params]
+  Name = "Jon Cohrs"
+  HeaderUsername = "splnlss"
+  HeaderHostname = "joncohrs.com"
+  About = "Media Artist, Technologist and Senior Producer - 15 years of experience in production with a focus on research, creativity, and documentary in emerging technology with a diverse career spanning interactivity, journalism, immersive technology, academia and film. Led award winning immersive stories for The New York Times and award-winning AR mobile apps for The New York Hall of Science."
+  ProfilePicture = "/images/Jon-Cohrs-Urban-Prospecting-in-Greenpoint-2009.png"
+
+  
+  LinkedInID = "joncohrs/"
+  GithubID = "splnlss"
+  TwitterID = "splnlss"
+  MastodonURL = "@splnlss@mstdn.social"
+  Email = "joncohrs@gmail.com"
