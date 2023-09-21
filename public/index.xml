@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jon Cohrs</title>
+    <link>https://JonCohrs.com/</link>
+    <description>Recent content on Jon Cohrs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://JonCohrs.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>https://JonCohrs.com/cv/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JonCohrs.com/cv/</guid>
+      <description>PROFILE Executive Producer, Technologist and Media Artist - 15 years of experience in production with a focus on research, creativity, and documentary in emerging technology with a diverse career spanning interactivity, journalism, immersive technology, academia and film. Led award winning immersive stories for The New York Times and award-winning AR mobile apps for The New York Hall of Science.
+Core Competencies — Media Professor  Unreal  3D Production  XR  User-Experience  Machine Learning  Augmented Reality  Spatial Audio  Film Production  Full-stack Software Development  Empathetic Leadership</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://JonCohrs.com/about/</link>
+      <pubDate>Sun, 09 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://JonCohrs.com/about/</guid>
+      <description>PROFILE Executive Producer, Technologist and Media Artist
+Jon Cohrs is a technologist, journalist, producer and media artist whose work uses public engagement, collaboration and emerging technology to address contemporary issues on health, technology and the environment. He spent 3 years exploring the future of journalism through research and emergent storytelling techniques on the R&amp;amp;D team at The New York Time. He’s now working on several documentary films mixing verité filmmaking and with RT3D open-worlds while also consulting on emergent technologies such as spatial audio and immersive media.</description>
+    </item>
+    
+  </channel>
+</rss>
