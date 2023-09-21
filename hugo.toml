@@ -36,6 +36,7 @@ disableHugoGeneratorInject = false
 [permalinks]
   posts = "/posts/:year/:month/:title/"
 
+
 [author]
   name = "Jon Cohrs"
 
@@ -187,3 +188,30 @@ disableHugoGeneratorInject = false
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
+# Relative urls - Do not enable this option unless you are creating a serverless site
+relativeURLs = true
+
+# .htaccess file creation
+[outputs]
+home = ["HTML", "htaccess", "humanstxt"]
+
+[outputFormats]
+[outputFormats.htaccess]
+    baseName = ""
+    isPlainText = true
+    mediaType = "text/htaccess"
+
+[outputFormats.humanstxt]
+    baseName = "humans"
+    isPlainText = true
+    mediaType = "text/plain"
+
+#And a custom mediaType in the case of .htaccess:
+[mediaTypes]
+  [mediaTypes."text/htaccess"]
+    suffixes = ["htaccess"]
+
+#Then we define layouts.
+#// layouts/index.humanstxt.txt
+#// layouts/index.htaccess
+#{{ site.BaseURL }}

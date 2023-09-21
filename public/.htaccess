@@ -1,0 +1,8 @@
+AddDefaultCharset UTF-8   
+AddDefaultCharset ISO-8859-1
+
+DefaultLanguage en-us
+
+Header add Access-Control-Allow-Origin: "*"
+Header add Access-Control-Allow-Methods: "*"
+Header add Access-Control-Allow-Headers: "*"
