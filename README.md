@@ -1,2 +1,2 @@
-# jc-hugo
+# Go / Hugo website
 personal website
